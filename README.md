@@ -1,36 +1,28 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Competition Dashboard
+
+Welcome to the Competition Dashboard! This project is a Next.js application designed to help users create, manage, and host competitions with ease. Whether you're organizing a coding contest, a quiz, or any other type of competition, this dashboard provides the tools you need to get started.
+
+## Features
+
+- **Create Competitions**: Define competition details, set up rules, and configure entry options.
+- **Manage Participants**: Add, edit, or remove participants, and track their progress.
+- **Real-Time Updates**: Monitor live updates and results as the competition progresses.
+- **Customizable Templates**: Use pre-built templates or create your own to match the competition's theme.
+- **User Authentication**: Secure login and registration for participants and organizers.
+- **Analytics and Reporting**: Generate reports and view analytics to assess competition performance.
+
+## Technologies Used
+
+- **Next.js**: Framework for building the React-based frontend.
+- **React**: Library for building user interfaces.
+- **Tailwind CSS**: For styling and responsive design.
+- **Next Auth **: Authentication and real-time database.
+- **TypeScript**: For type safety and better developer experience.
 
 ## Getting Started
 
-First, run the development server:
+To get started with the Competition Dashboard, follow these steps:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Prerequisites
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- Node.js and npm installed on your machine. You can download them from [nodejs.org](https://nodejs.org/).
